@@ -1,11 +1,11 @@
 
-# Привет, меня зовут Нодари!
+# Привет, меня зовут Нодари! / Hello, my name is Nodari!
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день! 
 
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 
@@ -15,10 +15,22 @@
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vephis_Tkaosani) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-gree?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+79087940203) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Nakhutsrishvilinodari@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Yandex-yellow?style=flat&logo=Yandex&logoColor=white)](mailto:Nakhutsrishvili@yandex.ru) [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-navy?style=flat&logo=Mail.ru&logoColor=white)](mailto:Sakartvelo_geo@mail.ru)
 
+/
+
+I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Since November 2022, my path in web development began at the Yandex Practicum courses, where I study to this day!
+
+
+- :telescope: I'm studying web development at Yandex Practicum courses!
+
+- :seedling:  will definitely take additional programming courses.
+
+- :zap: I want to learn a new profession and find a job.
+
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vephis_Tkaosani) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-gree?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+79087940203) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Nakhutsrishvilinodari@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Yandex-yellow?style=flat&logo=Yandex&logoColor=white)](mailto:Nakhutsrishvili@yandex.ru) [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-navy?style=flat&logo=Mail.ru&logoColor=white)](mailto:Sakartvelo_geo@mail.ru)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Социальные сети / Social media::
 
   <div id="badges">
     <a href="https://instagram.com/vepxis_tkaosani?igshid=YmMyMTA2M2Y=" target="_blank">
@@ -29,7 +41,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии / Technologies:
 
 <div>
   <img src="./Images/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -41,7 +53,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Инструменты / Tools:
 
 <div>
    <img src="./Images/figma.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
@@ -51,7 +63,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Пройденные курсы / Completed courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
