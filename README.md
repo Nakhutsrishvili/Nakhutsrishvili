@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне / About me:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день! 
 
@@ -30,7 +30,7 @@ I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### 🤝 Социальные сети / Social media::
+### 🤝 Социальные сети / Social media:
 
   <div id="badges">
     <a href="https://instagram.com/vepxis_tkaosani?igshid=YmMyMTA2M2Y=" target="_blank">
@@ -65,8 +65,8 @@ I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### 💻 Пройденные курсы / Completed courses:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| practicum.yandex/Факультет Веб разработки                       | 10/2022 - xx/2023 |
+| Курсы / Courses                                                        | Дата / Date       |
+| -----------------------------------------------------------------------| :---------------: |
+| Practicum.yandex/Faculty of Web Development (Факультет Веб разработки) | 10/2022 - xx/2023 |
 
 ---
