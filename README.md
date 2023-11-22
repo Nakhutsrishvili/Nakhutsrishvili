@@ -5,9 +5,9 @@
 
 ### :man_technologist: Обо мне / About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день! 
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума! 
 
-- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
+- :telescope: Изучаю веб-разработку!
 
 - :seedling: Обязательно пройду дополнительные курсы по программированию.
 
@@ -17,10 +17,10 @@
 
 /
 
-I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Since November 2022, my path in web development began at the Yandex Practicum courses, where I study to this day!
+I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Since November 2022, my path in web development began at the Yandex Practicum courses!
 
 
-- :telescope: I'm studying web development at Yandex Practicum courses!
+- :telescope: I'm studying web development!
 
 - :seedling:  will definitely take additional programming courses.
 
