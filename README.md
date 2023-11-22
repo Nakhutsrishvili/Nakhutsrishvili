@@ -67,6 +67,6 @@ I am a beginner web developer. <img src="https://media.giphy.com/media/WUlplcMpO
 
 | Курсы / Courses                                                        | Дата / Date       |
 | -----------------------------------------------------------------------| :---------------: |
-| Practicum.yandex/Faculty of Web Development (Факультет Веб разработки) | 10/2022 - xx/2023 |
+| Practicum.yandex/Faculty of Web Development (Факультет Веб разработки) | 10/2022 - 11/2023 |
 
 ---
